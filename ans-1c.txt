@@ -1,0 +1,5 @@
+Repeated Elements
+2 : 2
+3 : 3
+8 : 2
+Most repeated element : 3 -> 3
